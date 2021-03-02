@@ -2,7 +2,7 @@
 A project for emulating a real notebook with notes
 
 ## Usage
-Run menu.py using python3 command to enter user interface. Or colne this repository and use provided implementations of classes Note and Notebook in notebook.py.
+Run menu.py using python3 command to enter user interface. Or clone this repository and use provided implementations of classes Note and Notebook in notebook.py.
 
 When menu.py is run, user is given several options to choose from. They are:
 1. Show all Notes
@@ -17,4 +17,4 @@ The following is how the interface in command line looks like:
 ## Project description
 The main parts of the project are the following:
 1. menu.py - contains Menu class
-2. notebook.py - contains Note and Notebooks classes
+2. notebook.py - contains Note and Notebook classes
